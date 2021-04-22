@@ -2,6 +2,8 @@
   "name": "11four-items",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "git@github.com:xiaolinzi7118/four-items.git",
+  "author": "xiaolinzi7118 <1106147743@qq.com>",
   "license": "MIT",
   "dependencies": {
     "jquery": "^3.6.0"
